@@ -1,0 +1,8 @@
+pandas
+openai
+crewai
+python-dotenv
+google-generativeai
+chromadb
+streamlit
+newsapi-python
